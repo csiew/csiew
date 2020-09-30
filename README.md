@@ -12,5 +12,5 @@ I have been actively developing a wide variety of applications and tools across 
 - [Instagram](https://instagram.com/clarence_siew)
 
 ## Links
-- [My website](https://csiew.github.io/)
+- [My website](https://csiew.netlify.app/)
 - [My blog](https://csiew.github.io/blog)
